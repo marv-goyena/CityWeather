@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CityWeather</string>
+    <string name="welcome">Welcome</string>
+    <string name="error_something_went_wrong">Oops, something went wrong!</string>
+    <string name="search">Search</string>
+    <string name="display_cities">Display the cities</string>
+    <string name="no_results">No Results</string>
+    <string name="weather_today_message">Today\'s weather is %s</string>
+    <string name="current_temp_message">Current temperature is %.2f Kelvin</string>
+    <string name="minimum_temp_message">Minimum temperature is %.2f Kelvin</string>
+    <string name="maximum_temp_message">Maximum temperature is %.2f Kelvin</string>
+    <string name="wind_speed_message">Wind speed is about %.2f meter/sec</string>
+    <string name="wind_direction_message">Wind direction is about %.2f meteorological degrees</string>
+    <string name="cloudiness_message">"Cloudiness is %d percent</string>
+</resources>
